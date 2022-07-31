@@ -27,5 +27,8 @@
         "ext-iconv": "Converts text to and from non-UTF-8 encodings",
         "ext-bcmath": "Used for unit conversion and imagecrash protection",
         "ext-tidy": "Used for pretty-printing HTML"
+    },
+    "replace": {
+        "ezyang.com/htmlpurifier": "4.14.0"
     }
 }
