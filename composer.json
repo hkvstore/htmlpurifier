@@ -29,6 +29,6 @@
         "ext-tidy": "Used for pretty-printing HTML"
     },
     "replace": {
-        "ezyang.com/htmlpurifier": "4.14.0"
+        "ezyang/htmlpurifier": "4.14.0"
     }
 }
